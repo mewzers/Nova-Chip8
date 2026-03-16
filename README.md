@@ -27,12 +27,14 @@ It is compatible with Windows, macOS, and Linux.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mewzers/Nova/releases/latest">
-    <img src="https://img.shields.io/github/v/release/mewzers/Nova" width="180">
+    <img src="https://img.shields.io/github/v/release/mewzers/Nova" width="185">
   </a>
   &nbsp;
   <a href="https://github.com/mewzers/Nova/releases/latest">
     <img src="https://img.shields.io/github/downloads/mewzers/Nova/total" width="160">
   </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Rust-100%25-red" width="145">
   <br>
 </h1>
 <h1 align="left">

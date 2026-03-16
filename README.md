@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <b>Nova</b>
+  <b>Nova - Chip8</b>
   <br>
 </h1>
 

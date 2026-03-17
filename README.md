@@ -12,19 +12,12 @@ It is compatible with Windows, macOS, and Linux.
   <a href="https://github.com/mewzers/Nova/releases"><img src="images/Linux.png" width="140"></a>
   <a href="https://github.com/mewzers/Nova/releases"><img src="images/Tahoe.png" width="150"></a>
   <br>
-  <b>Windows 11</b>
-  <b>Linux</b>
-  <b>macOS</b>
+  <b><a href="https://github.com/mewzers/Nova/releases"></a>Windows 11</b>
+  <b><a href="https://github.com/mewzers/Nova/releases"></a>Linux</b>
+  <b><a href="https://github.com/mewzers/Nova/releases"></a>macOS</b>
   <br>
 </h1>
 
-<h1 align="center">
-  <br><br>
-  </h1>
-  
-    <a href="https://github.com/mewzers/Nova/releases"></a>Windows 11 
-  <a href="https://github.com/mewzers/Nova/releases"></a>Linux
-  <a href="https://github.com/mewzers/Nova/releases"></a>macOS
   
   <h1 align="center">
   <a href="https://github.com/mewzers/Nova/releases/latest">

@@ -43,3 +43,46 @@ It is compatible with Windows, macOS, and Linux.
 |                    Tetris                    |                    Pong                    |
 | :------------------------------------------: | :----------------------------------------: |
 | ![Tetris](./images/Tetris.png) | ![Pong](./images/Pong.png) |
+
+<h1 align="left">Features :</h1>
+
+- 🎮 Full CHIP-8 CPU (35 opcodes) with configurable quirks (CHIP-8, CHIP-48, SUPER-CHIP)
+- 🖥️ 64×32 pixel display with 1x–5x scaling
+- 🔊 Audio buzzer with volume control
+- 🕹️ Keyboard, mouse and gamepad support (gilrs)
+- 💾 Save/Load states (3 slots per ROM)
+- 🌍 12 languages (EN, FR, ES, IT, DE, PT, RU, ZH, JA, KO, AR, HI)
+- 🔧 Configurable controls and keyboard shortcuts
+- 🖥️ Debug terminal with search, export and live diagnostics
+- 🪟 Windows single-instance protection
+
+  <h1 align="left">Getting Started :</h1>
+
+1. Download the latest release for your OS above
+2. Extract the zip
+3. Run `Oxide.exe for Windows 11, Oxide.dmg for macOS and Oxide for Linux`
+4. Click **Game → Load game** and select a `.ch8` ROM file
+
+<h1 align="left">Controls :</h1>
+
+The CHIP-8 uses a 16-key hexadecimal keypad mapped to your keyboard by default :
+
+| CHIP-8 | 1 | 2 | 3 | C |
+|:------:|:---:|:---:|:---:|:---:|
+| **4** | Q | W | E | R |
+| **7** | A | S | D | F |
+| **A** | Z | X | C | V |
+
+All bindings are fully configurable in **Settings → Controls**.
+
+<h1 align="left">Built With :</h1>
+
+- [Rust](https://www.rust-lang.org/)
+- [egui / eframe](https://github.com/emilk/egui)
+- [rodio](https://github.com/RustAudio/rodio)
+- [gilrs](https://gitlab.com/gilrs-project/gilrs)
+- [rfd](https://github.com/PolyMeilex/rfd)
+
+<h1 align="left">License :</h1>
+
+MIT

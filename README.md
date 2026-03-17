@@ -32,7 +32,7 @@ It is compatible with Windows, macOS, and Linux.
 <h1 align="left">
   Emulator :
   <br><br>
-  
+  |![Window1](./images/Window.png) |
 
 <h1 align="left">
   Gallery :

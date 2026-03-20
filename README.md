@@ -2,9 +2,14 @@
 <h1 align="center">
   <b>Oxide</b>
   <br>
-  <sub>A modern CHIP-8 emulator written in Rust<sub>
+  <sub>A modern CHIP-8 emulator written in Rust</sub>
   <br>
-  <a href="https://github.com/OxideChip8/Oxide"><img src="images/Oxide.png" width="290"></a>
+  <a href="https://github.com/OxideChip8/Oxide">
+    <picture>
+      <source srcset="images/svg/Oxide.svg" type="image/svg+xml">
+      <img src="images/png/Oxide.png" width="290">
+    </picture>
+  </a>
   <br>
 </h1>
 
@@ -21,15 +26,34 @@ It helps to understand key Rust concepts (memory management, structs, ownership,
 The goal is to provide a solid foundation for both mastering Rust and understanding how emulators work, making it easier to build similar projects for other consoles in the future.
 
 <h1 align="center">
-  <a href="https://github.com/OxideChip8/Oxide/releases"><img src="images/W11.png" width="150"></a>
-  <a href="https://github.com/OxideChip8/Oxide/releases"><img src="images/Linux.png" width="140"></a>
-  <a href="https://github.com/OxideChip8/Oxide/releases"><img src="images/Tahoe.png" width="150"></a>
+ <a href="https://github.com/OxideChip8/Oxide/releases">
+    <picture>
+      <source srcset="images/svg/W11.svg" type="image/svg+xml">
+      <img src="images/png/W11.png" width="150">
+    </picture>
+  </a>
+  
+  <a href="https://github.com/OxideChip8/Oxide/releases">
+    <picture>
+      <source srcset="images/svg/Linux.svg" type="image/svg+xml">
+      <img src="images/png/Linux.png" width="140">
+    </picture>
+  </a>
+  
+  <a href="https://github.com/OxideChip8/Oxide/releases">
+    <picture>
+      <source srcset="images/svg/Tahoe.svg" type="image/svg+xml">
+      <img src="images/png/Tahoe.png" width="150">
+    </picture>
+  </a>
   <br>
   <b>Windows 11</b>
   <b>Linux</b>
   <b>macOS</b>
   <br>
 </h1>
+
+
 
 <h1 align="center">
   <a href="https://github.com/OxideChip8/Oxide/releases/latest">
@@ -41,22 +65,26 @@ The goal is to provide a solid foundation for both mastering Rust and understand
   <img src="https://img.shields.io/badge/Rust-100%25-red" width="145">
   <br>
 </h1>
+
 <h1 align="left">
   Emulator :
   <br><br>
+  
 WIP (screenshot of the emulator)
+  
 <h1 align="left">
   Gallery :
   <br><br>
 
+
 |                Space Invaders                 |                   Snake                   |
 | :------------------------------------------:  |:----------------------------------------: |
-| ![Space Invaders](./images/SpaceInvaders.png) | ![Snake](./images/Snake.png) |
-
+| <picture><source srcset="./images/svg/SpaceInvaders.svg" type="image/svg+xml"><img src="./images/png/SpaceInvaders.png"></picture> | <picture><source srcset="./images/svg/Snake.svg" type="image/svg+xml"><img src="./images/png/Snake.png"></picture> 
 
 |                    Tetris                    |                    Pong                    |
 | :------------------------------------------: | :----------------------------------------: |
-| ![Tetris](./images/Tetris.png) | ![Pong](./images/Pong.png) |
+| <picture><source srcset="./images/svg/Tetris.svg" type="image/svg+xml"><img src="./images/png/Tetris.png"></picture> | <picture><source srcset="./images/svg/Pong.svg" type="image/svg+xml"><img src="./images/png/Pong.png"></picture> |
+
 
 <h1 align="left">Features :</h1>
 
@@ -74,18 +102,19 @@ WIP (screenshot of the emulator)
 
 1. Download the latest release for your OS above
 2. Extract the zip
-3. Run `Oxide.exe for Windows 11, Oxide.dmg for macOS and Oxide for Linux`
+3. Run `Oxide` (depending of the OS)
 4. Click **Game → Load game** and select a `.ch8` ROM file
 
 <h1 align="left">Controls :</h1>
 
 The CHIP-8 uses a 16-key hexadecimal keypad mapped to your keyboard by default :
 
-| CHIP-8 | 1 | 2 | 3 | C |
-|:------:|:---:|:---:|:---:|:---:|
-| **4** | Q | W | E | R |
-| **7** | A | S | D | F |
-| **A** | Z | X | C | V |
+
+| 1 | 2 | 3 | C |
+|:------:|:---:|:---:|:---:|
+| 4 | 5 | 6 | D |
+| 7 | 8 | 9 | E |
+| A | 0 | B | F |
 
 All bindings are fully configurable in **Settings → Controls**.
 

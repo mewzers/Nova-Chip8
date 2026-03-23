@@ -67,6 +67,9 @@ The goal is to provide a solid foundation for both mastering Rust and understand
   </a>
   <img src="https://img.shields.io/badge/Rust-100%25-red" width="145">
   <br>
+  <a href="https://github.com/OxideChip8/Oxide/milestones">
+    <img src="https://img.shields.io/badge/To view the progress-%25-magenta" width="240">
+  </a>
 </h1>
 
 <h1 align="left">

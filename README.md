@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Current progress-%25-fffeb5" width="222">
   </a>
   <a href="https://github.com/OxideChip8/Oxide/releases">
-    <img src="https://img.shields.io/github/v/release/OxideChip8/Oxide" width="185">
+    <img src="https://img.shields.io/github/v/release/OxideChip8/Oxide?color=FFD200" width="185">
   </a>
   <a href="https://github.com/OxideChip8/Oxide/releases/latest">
     <img src="https://img.shields.io/github/downloads/OxideChip8/Oxide/total?color=C0E600" width="160">

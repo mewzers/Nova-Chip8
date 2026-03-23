@@ -110,7 +110,7 @@ The goal is to provide a solid foundation for both mastering Rust and understand
 - 🖥️ Debug terminal with search, export and live diagnostics
 - 🪟 Windows single-instance protection
 
-  <h1 align="left">Getting Started :</h1>
+<h1 align="left">Getting Started :</h1>
 
 1. Download the latest release for your OS above
 2. Extract the zip

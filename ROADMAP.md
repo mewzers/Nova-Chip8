@@ -12,3 +12,6 @@
 ### Advanced
 - [x] Sound
 - [ ] Super CHIP-8 support
+- [ ] Unit testing
+- [ ] Fixed a GUI bug with the Kiwano theme
+- [ ] Release automatisation
